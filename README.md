@@ -15,7 +15,7 @@ Two players (different colors) take turns dropping colored tokens into a six-row
 
 ## Requirements
   - Two players able to play the game
-  - Players have name, id, and color
+  - Players have name, ID, and color
   - Board that can change and access its fields, check if the move is legal, and check if the game is over
   - Driver that will run the game using the instance of the Game class
   - Game object can run the game, start it, make a move, finish the game, and everything else required for these functions
